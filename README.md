@@ -6,6 +6,7 @@ Uma aplicação simples em HTML, CSS e JavaScript pra organizar sorteios para am
 
 🚀 Funcionalidades
 
+
 ✅ Adicionar nomes de amigos a uma lista
 
 ✅ Validação de entrada (nome não pode estar vazio)
